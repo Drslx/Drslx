@@ -33,7 +33,7 @@
   
   <h2> Certificates </h2>
   
- <img alig="center" height="100" width="100" src="./certificates/boas-vindas.png>
+ <img alig="center" height="100" width="100" src="/certificates/boas-vindas.png>
   ![](./certificates/boas-vindas.png) 
   ![](./certificates/logica.png)
   ![](./certificates/scrum.png)
