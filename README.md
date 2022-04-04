@@ -15,8 +15,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <div>
-<a href="https://storyset.com/illustration/devices/pana">
-  <img src="/Devices.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Devices Semi Flat Illustrations">
+  <a href="https://storyset.com/technology">Technology illustrations by Storyset
+  
   Illustration by Freepik Storyset
 </a>
 </div>
