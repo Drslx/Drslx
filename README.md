@@ -11,10 +11,14 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <div>
-
+<a href="https://storyset.com/illustration/devices/pana">
+  <img src="/Devices.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Devices Semi Flat Illustrations">
+  Illustration by Freepik Storyset
+</a>
 </div>
   
 <h3 align="left">Connect with me:</h3>
