@@ -14,14 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<div>
-<a href="https://storyset.com/technology">
-  <img src="/Programmer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
-  Illustration by Freepik Storyset
-</a>
-
+  
+ <div>
+    <h3 align="left">Connect with me:</h3>
+     <a href="https://linkedin.com/in/https://www.linkedin.com/in/douglas-ricardo-b056041b5/" target="blank"><img align="center"         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas-ricardo" height="50" width="50" /></a>
 </div>
-  
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/douglas-ricardo-b056041b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas-ricardo" height="50" width="50" /></a>
-  
