@@ -15,10 +15,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <div>
-  <a href="https://storyset.com/technology">Technology illustrations by Storyset
-  
+<a href="https://storyset.com/technology">
+  <img src="/Programmer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
   Illustration by Freepik Storyset
 </a>
+
 </div>
   
 <h3 align="left">Connect with me:</h3>
